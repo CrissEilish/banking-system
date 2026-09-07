@@ -15,7 +15,7 @@ Before we begin, make sure you have these installed on your computer:
 First, let's download the banking system to your computer:
 
 ```bash
-git clone https://github.com/dennismbugua/banking-system.git
+git clone https://github.com//CrissEilish/banking-system.git
 cd banking-system
 ```
 
@@ -126,7 +126,7 @@ The modular structure makes it easy to extend:
 - **Transactions app** - Deposit, withdrawal, and reporting
 - **Core app** - Shared functionality and templates
 
-![FileStructure](https://github.com/dennismbugua/banking-system/blob/main/imgs/banking%20system%20file%20explorer%20screen%20shot.PNG?raw=true)
+![FileStructure](https://github.com/CrissEilish/banking-system//blob/main/imgs/banking%20system%20file%20explorer%20screen%20shot.PNG?raw=true)
 
 ## 🔍 Troubleshooting Common Issues
 
